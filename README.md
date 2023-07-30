@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ebramatalla
-- 👀 I’m interested in NodeJs
-- 🌱 I’m currently learning Advanced Tobic in NodeJS
+- 👀 I’m interested in NodeJs , NestJs , WebSocket ,GameDevelopment , DotNet
+- 🌱 I’m currently learning Advanced Tobic in NodeJS And DotNet
 - 📫 How to reach me Ebramatalla@gmail.com
 
 <!---
